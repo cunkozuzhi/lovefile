@@ -1,12 +1,11 @@
 <!-- _coverpage.md -->
 
-# Docsify使用指南 
+# 我的Guide 
 
-> 💪Docsify使用指南，使用Typora+Docsify打造最强、最快捷、最轻量级的个人&团队文档。
+> 💪日常问题的解决
 
- 简单、轻便 (压缩后 ~21kB)
-- 无需生成 html 文件
-- 众多主题
+ 简单、高效
+
 
 
 [开始使用](/README.md)
