@@ -1,6 +1,11 @@
-* Typora+Docsify使用指南
-  * [Docsify使用指南](/ProjectDocs/Docsify使用指南.md)
-  * [Typora+Docsify快速入门](/ProjectDocs/Typora+Docsify快速入门.md)
-* Docsify部署
-  * [Docsify部署教程](/ProjectDocs/Docsify部署教程.md)
-
+* 娱乐
+  * [听音乐](/ProjectDocs/Docsify使用指南.md)
+  * [看电影](/ProjectDocs/Typora+Docsify快速入门.md)
+  * [找图片](/ProjectDocs/Docsify使用指南.md)
+  * [找书籍](/ProjectDocs/Docsify使用指南.md)
+* 学习
+  * [论坛](/ProjectDocs/Docsify部署教程.md)
+  * [工具箱](/ProjectDocs/Docsify使用指南.md)
+  * [资源库](/ProjectDocs/Docsify使用指南.md)
+* 工作
+  * [写简历](/ProjectDocs/Docsify使用指南.md)
